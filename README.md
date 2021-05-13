@@ -1,4 +1,5 @@
 # Java2DGame
+##Bu proje henüz geliştirilme aşamasındadır , eksik ve hatalı yerlerde katkıda bulunabilirsiniz
 
 ![alt text](https://i.resmim.net/i/breakout-ball.gif)
 
